@@ -22,9 +22,6 @@ CRUDY presenta una narrativa con múltiples decisiones. A medida que avanzas, en
 
 ## 📁 Estructura del proyecto
 
-
-## 📁 Estructura del proyecto
-
 ```
 / Crudy
 ├── img/ # Carpeta de imágenes usadas en el juego (opcional)
@@ -41,7 +38,6 @@ CRUDY presenta una narrativa con múltiples decisiones. A medida que avanzas, en
 Puedes ver el proyecto desplegado en **GitHub Pages** aquí:
 
 👉 [Ver Demo](https://vanessa55-rgb.github.io/Entrenamiento-MOD3_SEM2/)
-
 
 ## 🚀 Cómo usarlo
 
