@@ -36,11 +36,6 @@ CRUDY presenta una narrativa con múltiples decisiones. A medida que avanzas, en
 └── README.md # Documentación del proyecto
 ```
 
-
-## 📸 Vista previa
-
-![alt text](image.png)
-
 ## 🚀 Cómo ver el proyecto
 
 Puedes ver el proyecto desplegado en **GitHub Pages** aquí:
