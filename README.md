@@ -37,7 +37,7 @@ CRUDY presenta una narrativa con múltiples decisiones. A medida que avanzas, en
 
 Puedes ver el proyecto desplegado en **GitHub Pages** aquí:
 
-👉 [Ver Demo](https://vanessa55-rgb.github.io/Entrenamiento-MOD3_SEM2/)
+👉 [Ver Demo](https://san1000-ark.github.io/Crudy/)
 
 ## 🚀 Cómo usarlo
 
